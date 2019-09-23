@@ -21,11 +21,10 @@ download flask server environment:
  
 3rd step:
 
- Now just run the code using:
+ Now time to run the code, just go thje terminal and than type:
+ 1) python predict_app.py
  
- python predict_app.py
- 
- IF ANY ERROR LIKE NO MODULE NAME "KERAS" , INSTALL THEM USING pip
+ IF ANY ERROR LIKE NO MODULE NAME FOUND "KERAS" , INSTALL THEM USING pip
  ex: 1) pip install keras
      2) pip install pandas
      etc..!!!
