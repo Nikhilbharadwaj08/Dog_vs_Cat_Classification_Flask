@@ -9,7 +9,7 @@ Procedure follows the same:
 1st step:
 
 download the source code of Dog_vs_Cat_Classification using the following cmd in the terminal: (ctrl + Alt + T)
-(https://github.com/Nikhilbharu08/Dog_vs_Cat_Classification.git)
+ -> git clone https://github.com/Nikhilbharu08/Dog_vs_Cat_Classification.git 
 
 2nd step:
 
