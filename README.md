@@ -21,7 +21,7 @@ download flask server environment:
  
 3rd step:
 
- Now time to run the code, just go thje terminal and than type:
+ Now time to run the code,Go to terminal and than type:
  1) python predict_app.py
  
  IF ANY ERROR LIKE NO MODULE NAME FOUND "KERAS" , INSTALL THEM USING pip
